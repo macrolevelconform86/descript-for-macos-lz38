@@ -1,4 +1,4 @@
-# 
+# Enhance Descript for macOS with Descript for macOS instant Overlay: scene-transitions & reverb, the #1 overlay. Includes scene-transitions and reverb for a smoother and more
 
 
 
